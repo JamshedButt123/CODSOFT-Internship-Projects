@@ -5,7 +5,7 @@
 ![image](https://github.com/JamshedButt123/CODSOFT-Projects/assets/94984597/f1ae06d1-cf10-4bf9-94a2-2eb93c04cd96)
 
 
-- 🔭 I’m currently working on **Cradit Card Farud Detection,Titanic Dataset And Iris Dataset,**
+- 🔭 I have worked in it **Cradit Card Farud Detection,Titanic Dataset And Iris Dataset,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JamshedButt123](https://github.com/JamshedButt123)
 
